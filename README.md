@@ -5,4 +5,5 @@ It also includes EDA , temporal Analysis , trend analysis, and geospatial analys
 
 Tableau public link- https://public.tableau.com/app/profile/ayush.tiwari1054
 
-Data Source- https://www.kaggle.com/datasets/rohanrao/air-quality-data-in-india
+Data Source- CBCB 2018
+
